@@ -1,4 +1,4 @@
-# <h1 class="text-center">The Basics of   ![](https://i.imgur.com/FEiml65.png)</h1>
+ <h1 class="text-center">The Basics of   ![](https://i.imgur.com/FEiml65.png)</h1>
 1) The fundamental nature of Cython can be summed up as follows: Cython is Python with C data types.
 2) Cython is Python: Almost any piece of Python code is also valid Cython code. The Cython compiler will convert it into C code which makes equivalent calls to the Python/C API.
 3) But Cython is much more than that, because parameters and variables can be declared to have C data types. Code which manipulates Python values and C values can be freely intermixed, with conversions occurring automatically wherever possible. 
